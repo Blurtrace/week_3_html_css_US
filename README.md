@@ -26,30 +26,22 @@ JavaScript
 │   ├── css/
 │   ├── js/
 │   └── img/
-🎯 Objetivo del proyecto
 
+🎯 Objetivo del proyecto
 Desarrollar un sitio web moderno aplicando buenas prácticas de:
 
 Diseño responsive
 Estructuración semántica
 Organización de código
 Experiencia de usuario (UX)
-📸 Vista previa
-
-(Aquí puedes agregar screenshots de tu proyecto)
 
 🔗 Demo
 
-Puedes ver el proyecto en línea aquí:
-👉 (Agrega tu link de GitHub Pages si lo publicas)
-
 📬 Contacto
 GitHub: https://github.com/Blurtrace
-(Agrega tus otras redes aquí)
-📄 Licencia
 
+📄 Licencia
 Este proyecto es de uso personal y educativo.
 
 ✨ Autor
-
 Desarrollado por Jandy Peña
