@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    background: white;
+}
+
+main,
+footer {
+    margin-left: 80px;
+    transition: 0.5s;
+}
+
+
+.main-about {
+    margin-left: 80px;
+    padding: 50px;
+    transition: 0.5s;
+}
