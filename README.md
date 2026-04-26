@@ -17,6 +17,8 @@ Uso correcto de etiquetas como header, nav, main, section, article, footer para 
 HTML5
 CSS3
 JavaScript
+
+
 📂 Estructura del proyecto
 📁 portfolio/
 │── index.html
